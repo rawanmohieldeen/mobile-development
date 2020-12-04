@@ -2,7 +2,7 @@
 
 Android Repo for Submitting Assignments
 
-My Plan for this Semester is to create a Mobile Tutor App In Native Android using Android Studio And Java. 
+My Plan for this Semester is to create a Mobile **Tutor App** In Native Android using Android Studio And Java. 
 
 Students need constant guidance for their studies. An on-demand tutor app will allow parents and children to find highly-qualified teachers from anywhere in the world for any subject.
 
