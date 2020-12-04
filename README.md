@@ -15,4 +15,3 @@ Students need constant guidance for their studies. An on-demand tutor app will a
 
 They can choose the best teachers available in the list and talk to them personally via the app. In-app chat, voice call, or video call features will keep 
 communication open between the students and the teachers.
-
